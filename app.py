@@ -8,7 +8,7 @@ from ipynb.fs.full.CollaborativeFiltering import movie_recommender_run
 #Set page configuration
 st.set_page_config(layout = "wide", page_title = "Movie Recommendation App", page_icon = ":Cinema:")
 
-#Read the dataset to find unique users
+#Read the dataset to find unique user
 column_names = ['User_ID', 'User_Names','Movie_ID','Rating','Timestamp']
 movies_df = pd.read_csv('Movie_data.csv', sep = ',', names = column_names)
 n_users = movies_df.User_Names.unique()
