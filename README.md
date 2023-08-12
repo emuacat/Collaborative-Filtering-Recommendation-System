@@ -1,9 +1,6 @@
 # Collaborative Filtering Recommendation System 🎬
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+
 
 ## Overview 🌟
 In this project, I've unleashed the power of collaborative filtering to recommend movies based on user similarity. Using Jupyter Notebook and the magic of Python libraries, I've created a system that thinks like a movie buff. Want to watch something that resonates with your taste? This system's got you covered! 
